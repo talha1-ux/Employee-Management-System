@@ -1,0 +1,11 @@
+release/main.o
+release/LoginWindow.o
+release/Dashboard.o
+release/FingerprintDialog.o
+release/FaceIdDialog.o
+release/Employee.o
+release/Database.o
+release/moc_LoginWindow.o
+release/moc_Dashboard.o
+release/moc_FingerprintDialog.o
+release/moc_FaceIdDialog.o

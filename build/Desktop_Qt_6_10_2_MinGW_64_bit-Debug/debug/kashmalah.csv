@@ -1,0 +1,7 @@
+ID,Name,Department,Designation,Email,Phone,Join Date,Status,Gender,Basic Salary,Allowance,Deductions,Net Pay,Present,Absent,Leave,Attendance%
+80502,Haleema Sadia,Marketing,Operations Manager,haleema212@gmail.com,+92300999999,2026-05-31,Active,Female,110000,16500,6600,119900,0,0,0,100
+80503,M.Abdullah Zulifiqar,Information Technology,Vice President,abd212@gmail.com,+9233000000,2026-05-31,Active,Male,450000,67500,27000,490500,0,0,0,100
+80505,Raghib ullah khan,Customer Support,Customer Support Manager,raghib213@gmail.com,+923090000,2026-05-31,Active,Male,120000,18000,7200,130800,1,1,1,33.3333
+80506,Ahmed Rana,Software Development,Junior Software Engineer,ahmed212@gmail.com,+923000000,2026-05-31,On Leave,Male,90000,13500,5400,98100,1,1,0,50
+80507,Talha Sajjad,Software Development,Junior Software Engineer,talha121@gmail.com,+92300099999,2026-05-31,Active,Male,90000,13500,5400,98100,0,0,1,0
+80508,kashmalah,Engineering,Senior Software Engineer,kashmalahkabirr@gmail.com,03007793346,2026-06-02,Active,Female,100000,15000,6000,109000,1,0,0,100

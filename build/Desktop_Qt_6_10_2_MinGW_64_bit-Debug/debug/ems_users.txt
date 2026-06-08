@@ -1,0 +1,11 @@
+admin||admin123||admin||Ahmed Raza||admin@company.com
+hr||hr123||hr||Sara Khan||hr@company.com
+viewer||viewer123||viewer||Ali Hassan||viewer@company.com
+emp_80501||viewer1212||viewer||Ahmed Ali||ahmedali121@gmail.com
+emp_80502||EMP@80502_4169||viewer||Haleema Sadia||haleema212@gmail.com
+emp_80503||EMP@80503_6563||viewer||M.Abdullah Zulifiqar||abd212@gmail.com
+emp_80504||EMP@80504_5242||viewer||Maryam||maryam212@gmail.com
+emp_80505||EMP@80505_4719||viewer||Raghib ullah khan||raghib213@gmail.com
+emp_80506||EMP@80506_9969||viewer||Talha Sajjad||talha212@gmail.com
+emp_80507||EMP@80507_9435||viewer||Talha Sajjad||talha121@gmail.com
+emp_80508||EMP@80508_9091||viewer||kashmalah||kashmalahkabirr@gmail.com

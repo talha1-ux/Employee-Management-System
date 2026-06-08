@@ -1,0 +1,6 @@
+80502||Haleema Sadia||Marketing||Operations Manager||110000||16500||6600||haleema212@gmail.com||+92300999999||2026-05-31||Active||Female||0||0||0||35201-2222222-2||||
+80503||M.Abdullah Zulifiqar||Information Technology||Vice President||450000||67500||27000||abd212@gmail.com||+9233000000||2026-05-31||Active||Male||0||0||0||32501-2222222-2||||
+80505||Raghib ullah khan||Customer Support||Customer Support Manager||120000||18000||7200||raghib213@gmail.com||+923090000||2026-05-31||Active||Male||1||1||1||35201-2344545-5||||
+80506||Ahmed Rana||Software Development||Junior Software Engineer||90000||13500||5400||ahmed212@gmail.com||+923000000||2026-05-31||On Leave||Male||1||1||0||35201-0000000-0||||
+80507||Talha Sajjad||Software Development||Junior Software Engineer||90000||13500||5400||talha121@gmail.com||+92300099999||2026-05-31||Active||Male||0||0||1||35201-2222200-0||||
+80508||kashmalah||Engineering||Senior Software Engineer||100000||15000||6000||kashmalahkabirr@gmail.com||03007793346||2026-06-02||Active||Female||1||0||0||38995-8903939-8||||

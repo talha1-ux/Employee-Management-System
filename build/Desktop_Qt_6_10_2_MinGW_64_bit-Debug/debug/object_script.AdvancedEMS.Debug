@@ -1,0 +1,11 @@
+debug/main.o
+debug/LoginWindow.o
+debug/Dashboard.o
+debug/FingerprintDialog.o
+debug/FaceIdDialog.o
+debug/Employee.o
+debug/Database.o
+debug/moc_LoginWindow.o
+debug/moc_Dashboard.o
+debug/moc_FingerprintDialog.o
+debug/moc_FaceIdDialog.o
